@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #121212;
+    color: #ffffff;
+    text-align: center;
+    padding: 30px;
+}
+
+.pokedex {
+    background-color: #b71c1c;
+    width: 320px;
+    border-radius: 20px;
+    padding: 20px;
+    margin: auto;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);
+}
+
+.tela {
+    background-color: #c8e6c9;
+    border: 5px solid #333;
+    border-radius: 10px;
+    padding: 10px;
+    min-height: 220px;
+    color: black;
+}
+
+.tela img {
+    width: 150px;
+}
+
+.ferramentas {
+    margin-top: 15px;
+}
+
+input {
+    padding: 8px;
+    width: 80%;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 8px 20px;
+    cursor: pointer;
+}
